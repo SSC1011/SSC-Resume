@@ -1,0 +1,52 @@
+body {
+	font-family: Cambria;
+	color: gray;
+	font-size: 18pt;
+}
+
+h1 {
+	color: darkgrey;
+	text-transform: uppercase;
+	font-weight: 800;
+	text-shadow:
+    1px 1px 1px blue,
+    2px 2px 1px blue;
+  text-align: Left;
+}
+
+h2
+{
+	color: darkgrey;
+	text-transform: uppercase;
+	font-weight: 250;
+	text-shadow:
+    1px 1px 1px blue,
+    2px 2px 1px blue;
+}
+
+h3 {
+	color: darkgrey;
+	text-transform: uppercase;
+	font-weight: 250;
+	text-shadow:
+    1px 1px 1px blue,
+    2px 2px 1px blue;
+}
+
+img {
+	width: 40%;
+}
+
+footer {
+    margin-top: 25px;
+    background-color: gray;
+    color: white;
+	text-shadow:
+    1px 1px 1px blue,
+    2px 2px 1px blue;
+}
+footer p {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}

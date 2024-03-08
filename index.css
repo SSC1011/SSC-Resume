@@ -1,36 +1,32 @@
+ 
 body {
 	font-family: Cambria;
-	color: gray;
-	font-size: 12pt;
+	color: black;
+	font-size: 11pt;
 }
 
 h1 {
-	color: darkgrey;
-	text-transform: uppercase;
-	font-weight: 800;
+	color: black;
+	background-color: lightgray;
+	text-transform: uppercase; text-emphasis: bold;
+	font-size: 20pt;
 	text-shadow:
-    1px 1px 1px blue,
-    2px 2px 1px blue;
-  text-align: Left;
+    1px 1px 1px white,
+    2px 2px 1px white;
+  	text-align: Left;
 }
 
 h2
 {
-	color: darkgrey;
-	text-transform: uppercase;
-	font-weight: 250;
-	text-shadow:
-    1px 1px 1px blue,
-    2px 2px 1px blue;
+	color: black;
+	text-transform: uppercase; text-emphasis: bold;
+	font-size: 16pt;
 }
 
 h3 {
-	color: darkgrey;
-	text-transform: uppercase;
-	font-weight: 250;
-	text-shadow:
-    1px 1px 1px blue,
-    2px 2px 1px blue;
+	color: black; 
+	text-transform: uppercase; text-emphasis: bold;
+	font-size: 16pt;
 }
 
 img {
@@ -39,11 +35,12 @@ img {
 
 footer {
     margin-top: 25px;
-    background-color: gray;
-    color: white;
+	background-color: lightgray;
+    color: black;
+	text-transform: uppercase; text-emphasis: bold;
 	text-shadow:
-    1px 1px 1px blue,
-    2px 2px 1px blue;
+    1px 1px 1px white,
+    2px 2px 1px white;
 }
 footer p {
     text-align: center;
